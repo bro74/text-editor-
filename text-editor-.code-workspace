@@ -1,14 +1,4 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../../Downloads/cautious-meme-main/Develop/server"
-		},
-		{
-			"path": "../../../Downloads/cautious-meme-main/Develop/client/src"
-		}
-	],
+	"folders": [],
 	"settings": {}
 }
